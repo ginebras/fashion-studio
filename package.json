@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@fontsource/kaushan-script": "^4.5.5",
+    "@fontsource/sirin-stencil": "^4.5.4",
+    "framer-motion": "^6.3.3",
+    "gsap": "^3.10.4",
+    "locomotive-scroll": "^4.1.4",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-is": "^18.1.0",
+    "react-locomotive-scroll": "^0.2.0",
+    "react-router-dom": "^6.3.0",
+    "styled-components": "^5.3.5",
+    "swiper": "^8.1.4",
+    "tslib": "^2.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}

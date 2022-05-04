@@ -1,0 +1,15 @@
+.swiper-wrapper {
+  width: 50vw;
+}
+
+@media screen and (max-width: 1024px) {
+  .swiper-wrapper {
+    width: 85vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .swiper-wrapper {
+    width: 85vw;
+  }
+}
